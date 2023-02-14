@@ -1,0 +1,1 @@
+O projeto basicamente é uma galeria responsiva de imagens criadas pela IA MidJourney
